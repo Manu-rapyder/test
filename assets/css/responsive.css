@@ -1,0 +1,342 @@
+@media only screen and (min-width:1420px) and (max-width: 1450px) {
+
+
+    .banner-content {
+        padding-top: 15%;
+    }
+
+
+    .overlay.open {
+        padding-top: 5%;
+    }
+
+
+    .banner-block-new h1 {
+        margin-top: 5%;
+    }
+
+
+    .button_container {
+        top: 4% !important;
+    }
+
+    .has-fixed.is-shrink .header-main .button_container {
+        top: 2% !important;
+    }
+
+
+    .ban-title-service {
+        position: absolute;
+        top: 7%;
+        left: 6%;
+    }
+
+    .breadcrumb-wrapper-service {
+        position: absolute;
+        /* top: 8%; */
+        top: 204px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    iframe {
+        width: 100%;
+    }
+
+    .logo img {
+        height: 70px;
+        transition: all .4s;
+    }
+
+    .ban-title {
+        text-align: left;
+    }
+
+    .bantop-panel {
+        left: 0%;
+    }
+
+    .mob-ban-cont {
+        padding-left: 0;
+    }
+
+    .overlay nav {
+        left: 0%;
+    }
+
+    .home-menu {
+        left: 35%;
+    }
+
+    .contact-address {
+        left: 0%;
+        padding-top: 20%;
+    }
+
+    .mob-abt-us {
+        padding-bottom: 20px;
+    }
+
+    .mob-cent {
+        text-align: center;
+    }
+
+    .about-exp h3 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .year-box {
+        position: absolute;
+        background-color: #004b8d;
+        bottom: 16px;
+        z-index: 1;
+        width: 160px;
+        height: 224px;
+        padding: 22px 30px 40px 40px;
+    }
+
+    .text-box {
+        line-height: .8;
+        margin-top: 30%;
+        margin-left: 10%;
+    }
+
+    .overlay ul li {
+        font-size: 23px;
+        min-height: 23px;
+    }
+
+    .dropbtn {
+        font-size: 23px;
+    }
+
+    .dropdown-content li a {
+        font-size: 12px !important;
+        color: #3380b7 !important;
+    }
+
+    .overlay nav {
+        top: 83%;
+    }
+
+    .text-left {
+        padding-left: 10%;
+    }
+
+    .banner-block-new h1 {
+        text-align: left;
+    }
+
+    .button_container {
+        top: 3% !important;
+    }
+
+    .has-fixed .button_container {
+        top: 3% !important;
+    }
+
+    .logo img {
+        height: 60px !important;
+    }
+
+    .cont-box {
+        z-index: 0;
+        top: 0;
+        left: 0;
+        position: unset;
+    }
+
+    .section-x {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .text-left {
+        padding-left: 3%;
+        padding-top: 20px;
+    }
+
+    .list-content ul li::before {
+        content: url(../img/pointer.png);
+        position: absolute;
+        left: 18px;
+        padding-bottom: 2px;
+        padding-top: 3px;
+    }
+
+    .pt0 {
+        padding-top: 0;
+    }
+
+    .image-block {
+        padding-top: 20px;
+    }
+
+    .image-block img {
+        width: 100%;
+    }
+
+    .cs-types {
+        list-style-type: none;
+        padding-left: 30px;
+        padding-bottom: 20px;
+        font-size: 18px;
+        line-height: 35px;
+
+    }
+
+    .section-head p {
+        text-align: justify;
+        font-size: 18px;
+
+    }
+
+    .text-block p {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .text-block {
+        text-align: justify;
+    }
+
+    .ti-star:before {
+        content: "\e60a";
+        position: absolute;
+        left: -10px;
+        top: 10px;
+    }
+
+    .str-sec {
+        margin-top: 30px;
+    }
+
+    .str-sec .feature {
+        text-align: left;
+    }
+
+    .text-block p+p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+
+    .header-navbar:not(.header-navbar-classic) {
+        left: -419px;
+        width: 100%;
+        opacity: .9;
+    }
+
+    .hide-xs {
+        display: none;
+    }
+
+    .text-block h2 {
+        margin-bottom: 13px;
+        text-align: left;
+        font-size: 19px;
+    }
+
+    .mob-pl-0 {
+        padding-left: 0 !important;
+    }
+
+    .mob-pl-15 {
+        padding-left: 15px !important;
+    }
+
+    .mob-pr-15 {
+        padding-right: 15px !important;
+    }
+
+    .mob-list-content3 ul li::before {
+        left: 20px !important;
+    }
+
+    .mob-pt5 {
+        padding-top: 5%;
+    }
+
+    .value-box h4 {
+        color: #094783;
+        text-align: left;
+        font-size: 16px;
+    }
+
+    .mob-cookies {
+        text-align: left !important;
+        padding-left: 0;
+        padding-bottom: 10px;
+    }
+
+    .mob-pt20 {
+        padding-bottom: 20px;
+    }
+
+    .counter-content {
+        margin-top: 10%;
+    }
+
+    .large-scale {
+        padding-left: 0!important;
+    }
+
+    .capabilities{
+        margin-left: -26px;
+        margin-top: 20px;
+        line-height: 26px;
+        margin-bottom: 10px !important;
+    }
+
+}
+
+/* Vivo rs */
+@media only screen and (min-width: 350px) and (max-width: 370px) {
+    .lead {
+        font-size: 18px;
+    }
+
+    .banner-heading {
+        font-size: 24px;
+
+    }
+
+    .about-exp h3 {
+        font-size: 15px;
+    }
+
+    .value-box h4 {
+        color: #094783;
+        text-align: left;
+        font-size: 16px;
+    }
+
+    .cs-types li {
+        text-transform: capitalize;
+        text-align: left;
+    }
+
+    .section-head p {
+        text-align: left;
+        font-size: 18px;
+    }
+}
+
+/* Android Rv */
+@media only screen and (min-width: 390px) and (max-width: 400px) {
+    .ban-title {
+        text-align: left;
+        font-size: 26px;
+    }
+
+    .section-head p {
+        text-align: justify;
+        font-size: 17px;
+    }
+
+    .mob-pt-10 {
+        padding-top: 10px;
+    }
+}
